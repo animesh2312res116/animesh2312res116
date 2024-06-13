@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANIMESH</h1>
-<h3 align="center">Student at Indian Institute of Technology, Patna | Pursuing Computer Science and Data Analytics |</h3>
+<h3 align="center">Student at Indian Institute of Technology, Patna | Pursuing Computer Science and Data Analytics |</h3> <br>
 
 
 - 🌱 I’m currently learning **Computer Science And Data Analytics**
