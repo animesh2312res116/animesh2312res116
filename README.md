@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANIMESH</h1>
 <h3 align="center">Student at Indian Institute of Technology, Patna | Pursuing Computer Science and Data Analytics |</h3>
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh2312res116&label=Profile%20views&color=0e75b6&style=flat" alt="animesh2312res116" /> </p>
 
 - 🌱 I’m currently learning **Computer Science And Data Analytics**
 
