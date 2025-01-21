@@ -10,7 +10,7 @@
 
 - 📊 **Tech Enthusiast | Data-Driven Insights**
 
-- 👨‍💻 My prokects are available at [animesh2312res116](animesh2312res116)
+- 👨‍💻 My projects are available at [animesh2312res116](animesh2312res116)
 
 - 📧 You can reach me @ **animeshsinha381@gmail.com**
 
